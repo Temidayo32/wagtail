@@ -644,6 +644,11 @@ Contributors
 * Victoria Poromon
 * Dokua Asiedu
 * Darrel O'Pry
+* Mary Ayobami
+* Bolarinwa Comfort Ajayi
+* Mary Ojo
+* Oluwaloseyi Adeleye
+* Dennis Onyeka
 
 Translators
 ===========
